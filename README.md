@@ -1,6 +1,6 @@
-## HI! ##
-- EMAIL: mynameiszgh@yeah.net
-- LUOGU : https://www.luogu.com.cn/user/835911
+## ![](https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/greetings.gif) ##
+- **EMAIL: goodgoodstudy_zgh@qq.com**
+- **LUOGU : https://www.luogu.com.cn/user/835911**
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Find-NICK)](https://github.com/anuraghazra/github-readme-stats)
