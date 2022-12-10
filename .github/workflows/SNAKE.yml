@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
       
       - name: Generate Snake
-        uses: Find-NICK/snk@master
+        uses: Find-NICK/snk
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,7 +24,7 @@ jobs:
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
-        uses: Find-NICK/add-and-commit@v9
+        uses: Find-NICK/add-and-commit
         with:
           branch: main
           message: 'Generate Contribution Snake'
