@@ -15,9 +15,8 @@
 ![](https://komarev.com/ghpvc/?username=Find-NICK&color=brightgreen)![](https://img.shields.io/github/last-commit/Find-NICK/Find-NICK.svg)![](https://img.shields.io/github/stars/Find-NICK/Find-NICK.svg)![](https://img.shields.io/github/followers/Find-NICK.svg?style=social&label=Follow&maxAge=2592000)
 ![](https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/assets/github-contribution-grid-snake.svg)
 
-
 <a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe. 
+I challenge you to a game of Tic-Tac-Toe. (Hey,bro .you CANNOT defeat ME!)
 Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
 
 Xs go first, click one of the nine boxes to make your move.
