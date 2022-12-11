@@ -35,7 +35,7 @@ jobs:
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: Find-NICK/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: main
+          build_dir: assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
