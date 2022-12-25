@@ -3,6 +3,9 @@
 - **EMAIL: goodgoodstudy_zgh@qq.com**
 - **LUOGU : https://www.luogu.com.cn/user/835911**
 
+| How's the weather today? | ![](https://wttr.in/_0pq_transparency=200_lang=en.png) |
+| :----------- | :----------- |
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Find-NICK)](https://github.com/anuraghazra/github-readme-stats)
 
