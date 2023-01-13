@@ -16,6 +16,8 @@
 ![](https://komarev.com/ghpvc/?username=Find-NICK&color=brightgreen)![](https://img.shields.io/github/last-commit/Find-NICK/Find-NICK.svg)![](https://img.shields.io/github/stars/Find-NICK/Find-NICK.svg)![](https://img.shields.io/github/followers/Find-NICK.svg?style=social&label=Follow&maxAge=2592000)
 ![](https://streak-stats.demolab.com/?user=Find-NICK)
 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
 ![](https://raw.githubusercontent.com/Find-NICK/Find-NICK/output/github-contribution-grid-snake.svg)
 
 
