@@ -17,7 +17,7 @@
 
 ![](https://streak-stats.demolab.com/?user=Find-NICK)
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api)![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=true&width=373&height=373&lines=Hello%2CWorld!;Namaste%2CWorld!;Bonjour%2CWorld!;Ciao%2CWorld!;Hola%2CWorld!;N%C7%90+H%C7%8Eo%2CWorld!)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api)![Hello_World](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=000000&center=true&width=373&height=373&lines=%3C%F0%9F%91%8BHello%2CWorld!%3E;%3C%F0%9F%91%8BNamaste%2CWorld!%3E;%3C%F0%9F%91%8BBonjour%2CWorld!%3E;%3C%F0%9F%91%8BCiao%2CWorld!%3E;%3C%F0%9F%91%8BHola%2CWorld!%3E;%3C%F0%9F%91%8BN%C7%90+H%C7%8Eo%2CWorld!%3E)
 
 ![](https://raw.githubusercontent.com/Find-NICK/Find-NICK/output/github-contribution-grid-snake.svg)
 
