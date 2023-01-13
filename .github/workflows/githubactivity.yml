@@ -2,8 +2,8 @@ name: update-gh-activity
 
 on:
   schedule:
-    - cron: '0 2 * * *'
-
+    - cron: "0 */2 * * *"
+  push:
 jobs:
   build:
     runs-on: ubuntu-latest
