@@ -5,8 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Find-NICK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://vercel.com/find-nick1/luogu-user-card/6tuuYb9x9euRMUpWptCKhUntRZyH/practice?id=253620)
-
 <!---
 ![](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 --->
