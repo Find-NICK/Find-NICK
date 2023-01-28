@@ -1,7 +1,8 @@
 <h1><img src="https://user-images.githubusercontent.com/116571277/215028669-a9c5ff78-ac58-4c72-bf96-767f331495b3.png">Hi,I'm Find-NICK!    <img src="https://visitor-badge.glitch.me/badge?page_id=Find-NICK" /> <img src="https://img.shields.io/github/stars/Find-NICK/Find-NICK.svg" /> <img src="https://img.shields.io/github/followers/Find-NICK.svg?style=flat&label=follower" /></h1>
 
+<!---
 <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/greetings.gif" />
-
+--->
 <table>
     <tr>
         <td rowspan="2">
