@@ -5,21 +5,15 @@
 <table>
     <tr>
         <td rowspan="2">
-            <a href="https://metrics.lecoq.io">
-                <img src="https://metrics.lecoq.io/Find-NICK">
-            </a>
+            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/github-metrics.svg">
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api?username=Find-NICK">
-            </a>
+            <img src="https://github-readme-stats.vercel.app/api?username=Find-NICK">
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Find-NICK&layout=compact&langs_count=10">
-            </a>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Find-NICK&layout=compact&langs_count=10">
         </td>
     </tr>
 </table>
