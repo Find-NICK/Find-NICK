@@ -1,4 +1,9 @@
 name: WakaTime
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "*/5 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.wakatime.svg
