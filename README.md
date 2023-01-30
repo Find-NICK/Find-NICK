@@ -22,11 +22,6 @@
             <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/metrics.plugin.wakatime.svg">
         </td>
     </tr>
-    <tr align="center">
-        <td>
-            <img src="https://quotes-github-readme.vercel.app/api">
-        </td>
-    </tr>
 </table>
 
 
