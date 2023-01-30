@@ -19,12 +19,12 @@
     </tr>
     <tr align="center">
         <td>
-            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/metrics.plugin.wakatime.svg">
+            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/wakatime.svg">
         </td>
     </tr>
 </table>
 
-
+<img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/followers.svg" />
 <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/output/github-contribution-grid-snake.svg" />
 
 
