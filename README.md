@@ -11,12 +11,12 @@
             <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/github-metrics.svg">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Find-NICK">
+            <img src="https://github-readme-stats-fn.vercel.app/api?username=Find-NICK">
         </td>
     </tr>
     <tr align="center">
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Find-NICK&langs_count=10">
+            <img src="https://github-readme-stats-fn.vercel.app/api/top-langs/?username=Find-NICK&langs_count=10">
         </td>
     </tr>
     <tr align="center">
