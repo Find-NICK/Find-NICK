@@ -8,8 +8,8 @@
 --->
 <table>
     <tr align="center">
-        <td rowspan="3">
-            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/github-metrics.svg">
+        <td rowspan="5">
+            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/metric.svg">
         </td>
         <td>
             <img src="https://github-readme-stats-fn.vercel.app/api?username=Find-NICK">
@@ -17,12 +17,22 @@
     </tr>
     <tr align="center">
         <td>
-            <img src="https://github-readme-stats-fn.vercel.app/api/top-langs/?username=Find-NICK&langs_count=10">
+            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/languages.svg">
         </td>
     </tr>
     <tr align="center">
         <td>
+            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/pr-issue.svg">
+        </td>
+    </tr>
+        <tr align="center">
+        <td>
             <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/wakatime.svg">
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/habits-facts.svg">
         </td>
     </tr>
 </table>
