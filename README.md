@@ -1,5 +1,7 @@
 <h1><img src="https://user-images.githubusercontent.com/116571277/215028669-a9c5ff78-ac58-4c72-bf96-767f331495b3.png">Hi,I'm Find-NICK!   <img src="https://img.shields.io/github/stars/Find-NICK/Find-NICK.svg" /> <img src="https://img.shields.io/github/followers/Find-NICK.svg?style=flat&label=follower" /></h1>
 
+<h2><a href="https://github.com/Find-NICK.gpg"><code>My public GPG key</code></a></h2>
+
 <!---
 <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/greetings.gif" />
 --->
