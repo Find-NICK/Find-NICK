@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: Find-NICK/metrics@master
         with:
-          filename: wakatime.svg
+          filename: src/wakatime.svg
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
