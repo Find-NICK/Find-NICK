@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: Find-NICK/metrics@master
         with:
-          filename: followers.svg
+          filename: src/followers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_people: yes
