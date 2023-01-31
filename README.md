@@ -12,7 +12,7 @@
             <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/metric.svg">
         </td>
         <td>
-            <img src="https://github-readme-stats-fn.vercel.app/api?username=Find-NICK">
+            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/stars.svg">
         </td>
     </tr>
     <tr align="center">
