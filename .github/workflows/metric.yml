@@ -23,9 +23,10 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
+          
           # Options
           user: Find-NICK
+          filename: src/metric.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Etc/GMT-8
