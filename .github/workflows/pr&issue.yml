@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: uses: Find-NICK/metrics@master
+      - uses: Find-NICK/metrics@master
         with:
             filename: pr-issue.svg
             token: ${{ secrets.METRICS_TOKEN }}
