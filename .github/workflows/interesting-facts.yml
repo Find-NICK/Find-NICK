@@ -1,0 +1,21 @@
+name: interesting-facts
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "*/5 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Find-NICK/metrics@master
+        with:
+          filename: src/habits-facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Shanghai
