@@ -12,7 +12,7 @@
             <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/metric.svg">
         </td>
         <td>
-            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/stars.svg">
+            <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/random-code-snippet.svg">
         </td>
     </tr>
     <tr align="center">
