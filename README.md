@@ -40,6 +40,7 @@
 <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/main/src/followers.svg" />
 <img src="https://raw.githubusercontent.com/Find-NICK/Find-NICK/output/github-contribution-grid-snake.svg" />
 
+<a href="https://www.buymeacoffee.com/goodgoodstL"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=goodgoodstL&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff"  alt="side Image" align="right"/></a>
 
 
 
