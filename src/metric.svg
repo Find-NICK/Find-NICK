@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1612" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1239" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            578 Commits
+                            579 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1253,6 +1253,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#cf323f6</div>
+                                        <div class="message">deploy automatically by github actions</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Find-NICK/find-nick.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#6fd6ad2</div>
                                         <div class="message">deploy automatically by github actions</div>
                                     </div>
@@ -1415,484 +1435,6 @@
                                     <div class="commit">
                                         <div class="sha">#cbe3e18</div>
                                         <div class="message">deploy automatically by github actions</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">Find-NICK/OI-wiki</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4c2b96e</div>
-                                        <div class="message">fix(_redirects): better redirect HTML &amp; fix redirects (#4689)
-
--   用户不需要启用 JavaScript
--   通过设置 canonical 和 noindex 进行 SEO
-
-reference: https://github.com/gohugoio/hugo/blob/1477d0ba90acd3aa464556d95edab396a518016e/tpl/tplimpl/embedded/templates/alias.html</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c179934</div>
-                                        <div class="message">feat(lang/optimizations): 添加有符号移位相关说明 (#4711)
-
-* feat(lang/optimizations): 添加有符号移位相关说明
-
-* style: format markdown files with remark-lint
-
----------
-
-Co-authored-by: 24OI-bot &lt;15963390+24OI-bot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df71386</div>
-                                        <div class="message">feat(math/number-theory/gcd.md): add 更相减损术 (#4640)
-
-* feat(math/bignum.md):添加多项式加速乘法介绍
-
-* feat(math/bignum.md):补全多项式
-
-* style: format markdown files with remark-lint
-
-* feat(math/number-theory/gcd.md):add 更相减损术
-
-* style: format markdown files with remark-lint
-
-* style: format markdown files with remark-lint
-
-* Update gcd.md
-
-* fix(gcd.md): indent
-
-* Update docs/math/number-theory/gcd.md
-
-* Update docs/math/number-theory/gcd.md
-
-* Update gcd.md
-
-* upd gcd.md(delete python version)
-
-* Update docs/math/number-theory/gcd.md
-
-Co-authored-by: Tifa &lt;62847935+Tiphereth-A@users.noreply.github.com&gt;
-
-* style: format markdown files with remark-lint
-
----------
-
-Co-authored-by: 24OI-bot &lt;15963390+24OI-bot@users.noreply.github.com&gt;
-Co-authored-by: Dejia Xu &lt;dejia@utexas.edu&gt;
-Co-authored-by: Tifa &lt;62847935+Tiphereth-A@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b619bb0</div>
-                                        <div class="message">fix: remove extra js (#4714)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c60951</div>
-                                        <div class="message">feat: dark mode (#4695)
-
-* feat: dark mode
-
-* change the primary fg colour
-
-* fix the link colour
-
-* feat: add CSS for images in dark mode
-
-* fix: only add border for SVG
-
-* feat: giscus dark mode
-
-* chore(deps): lock mkdocs-material theme version
-
-* Revert "Merge pull request #2 from diauweb/NachtgeistW/master"
-
-This reverts commit 7c15c39dd920e8bc350e5a7a8bb11f4a6ee382fb, reversing
-changes made to de8ac3c3a1ef4fc80b492de9f8826de527e4cf04.
-
-* feat: giscus dark mode v2
-
-* feat(theme): remove color palette switcher
-
-* fix: regression of #758
-
----------
-
-Co-authored-by: Yufan You &lt;ouuansteve@gmail.com&gt;
-Co-authored-by: Xiaodai Dai &lt;diauweb@live.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f9f733</div>
-                                        <div class="message">fix(math/number-theory/inverse.md): 修正求逆元两种方法对比中的错误及表述 (#4706)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6edc938</div>
-                                        <div class="message">fix(math/number-theory/gcd.md): 纠正欧几里得算法的证明错误 (#4705)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4dc916</div>
-                                        <div class="message">fix(string/sa.md): 修复重复声明编译错误 (#4712)
-
-* 代码编译失败
-
-* Update sa.md
-
----------
-
-Co-authored-by: WAAutoMaton &lt;a547673135@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a9075f</div>
-                                        <div class="message">fix(container.md): typo 关与 -&gt; 关于 (#4708)
-
-fix(container.md)：修改错字</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f47514a</div>
-                                        <div class="message">ci: bump actions (#4701)
-
-https://github.blog/changelog/2022-09-22-github-actions-all-actions-will-begin-running-on-node16-instead-of-node12/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93d5899</div>
-                                        <div class="message">fix(ds/splay.md): 修复 Splay 实现代码中的错误 (#4696) (#4697)
-
-fix(ds/splay.md): 修复 Splay 实现代码中的错误</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ed7923</div>
-                                        <div class="message">feat(general-match.md): 添加“基于高斯消元的一般图匹配算法”部分 (#4682)
-
-* feat(general-match.md): 添加“基于高斯消元的一般图匹配算法”部分
-
-* style: format markdown files with remark-lint
-
-* Apply suggestions from code review
-
-把原来 435 行被 bot 改成行内的公式改回行外
-
-Co-authored-by: Tifa &lt;62847935+Tiphereth-A@users.noreply.github.com&gt;
-
-* style: format markdown files with remark-lint
-
-* fix LaTeX format errors caused by bot
-
-* added "参考资料"
-
-* style: format markdown files with remark-lint
-
-* fix &amp; refactor: fix indent &amp; Put example into file
-
-* style: format markdown files with remark-lint
-
-* Apply suggestions from code review (2.2)
-
-Co-authored-by: yusancky &lt;yusancky@hotmail.com&gt;
-
-* fix "undefined reference to \"main\""
-
-* Revert "fix "undefined reference to \"main\"""
-
-This reverts commit 9788a25ac32d6ee64ad3dab1ec879899498160d0.
-
-* fix sample code (for blossom) and blossom
-
-* fix general-match_1.ans
-
-* changed random seed to 114514 &amp; fix answers
-
-* small fix
-
-* fix 2.in &amp; 2.ans
-
-* Update docs/graph/graph-matching/general-match.md
-
-Co-authored-by: yusancky &lt;yusancky@hotmail.com&gt;
-
----------
-
-Co-authored-by: 24OI-bot &lt;15963390+24OI-bot@users.noreply.github.com&gt;
-Co-authored-by: Tifa &lt;62847935+Tiphereth-A@users.noreply.github.com&gt;
-Co-authored-by: yusancky &lt;yusancky@hotmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2dee9c6</div>
-                                        <div class="message">fix(string/kmp.md): 修改拼写错误 (#4699)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd2ec2c</div>
-                                        <div class="message">feat(rotating-calipers.md): 添加对英文名以及「旋转卡尺」的介绍 (#4683)
-
-* feat(rotating-calipers.md)): 修改算法中文名并标注发音
-
-旋转卡壳是不佳翻译，应该为旋转卡尺。并且不少同学对该算法名称的发音有误解，标注拼音有助于减轻沟通障碍
-
-- [x] 我已认真阅读贡献指南 (contributing guidelines) 和社区公约 (code of conduct)，并遵循了如何参与页及格式手册页的相应规范。
-
-* style: format markdown files with remark-lint
-
-* Update rotating-calipers.md
-
-* Update mkdocs.yml
-
-* fix comment
-
-* fix comment
-
-* style: format markdown files with remark-lint
-
-* fix comment
-
-* style: format markdown files with remark-lint
-
-* fix comment
-
-* fix comment
-
-* fix comment
-
-* fix comment
-
-* style: format markdown files with remark-lint
-
-* fix comment
-
-* fix comment
-
-* style: format markdown files with remark-lint
-
-* fix comment
-
----------
-
-Co-authored-by: 24OI-bot &lt;15963390+24OI-bot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97a138d</div>
-                                        <div class="message">fix(math/number-theory/sieve.md): 增加埃氏筛证明的可读性 (#4684)
-
-* fix: (math/number-theory/sieve.md): 增加埃氏筛证明的可读性
-
-增加埃氏筛的证明注解，以降低新手理解门槛
-
-* Update docs/math/number-theory/sieve.md
-
-使语句更加通顺
-
-Co-authored-by: WAAutoMaton &lt;a547673135@gmail.com&gt;
-
-* style: format markdown files with remark-lint
-
----------
-
-Co-authored-by: WAAutoMaton &lt;a547673135@gmail.com&gt;
-Co-authored-by: 24OI-bot &lt;15963390+24OI-bot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#053be5b</div>
-                                        <div class="message">fix: use htmltest to check links &amp; fix links (#4668)
-
-* ci(build): use htmltest to check links
-
-* fix(graph): fix links
-
-* fix link(部分) (#4673)
-
-* 修link
-
-* 修link
-
-(有一定的个人猜想
-
-* 修引用
-
-删了一个
-
-* 修link
-
-* Update dictionary.md
-
-* 修link
-
-* 修link
-
-* 修引用
-
-* 回档
-
-* 回档
-
-* 修link
-
-* 修引用
-
-* 修link
-
-顺手加了一个句号
-
-* 修link
-
-* 修外链
-
-* fix(plug.md): typo
-
-Co-authored-by: Yufan You &lt;ouuansteve@gmail.com&gt;
-
----------
-
-Co-authored-by: Wenzhuo Liu &lt;mgt@oi-wiki.org&gt;
-Co-authored-by: Yufan You &lt;ouuansteve@gmail.com&gt;
-
-* fix(tools/editor/sublime): fix broken link
-
-* fix(lang): fix broken links
-
-* fix(quick-sort): 添加被错误删除的快速排序最坏情况 / 局部性描述
-
-这句最早在 #1512 中添加，在 c67e5cbb27c79de5f85d52f7d9d4ebc7e15 中被误删
-
-Co-authored-by: billchenchina &lt;billchenchina2001@gmail.com&gt;
-
-* fix(stl-sort): fix link hash
-
-* fix(intro/format): 更好地介绍链接中 hash 的使用
-
-* refactor: 将 author 字段和 _redirects 的文档移到 htc
-
-FAQ 不是文档，应该是 FAQ link 到文档，不是文档 link 到 FAQ。
-
-重定向写在 htc 就够了，它的使用方法不是一个 frequently asked question。
-
-原来在修改链接时检查内链的提示在有了 link checker 后就不需要了。
-
-* fix(topic/rmq): fix link hash
-
-* fix(pas-cpp): fix broken link
-
-* fix(math): fix broken links
-
-* fix(astar): fix link hash
-
-* fix(dgf): 将内链写为链接而非脚注
-
-* style: format markdown files with remark-lint
-
-* fix(misere-game): fix broken link
-
-* fix: revert #4673 中对 quick-sort 的修改
-
-脚注顺序不必和正文一致，改了还容易搞错
-
-* fix: 将未使用的脚注改为参考资料列表
-
-fix #4679
-
-* fix(sa-optimal-inplace): remove footnote ka03
-
-这个脚注没在正文中使用，其介绍的算法貌似也没在正文中出现
-
-* fix(rand-technique): 为随机堆添加脚注
-
-* style: format markdown files with remark-lint
-
-* fix(quick-sort): 将脚注从标题移到正文
-
-* style: format markdown files with remark-lint
-
-* fix(htc): 文字描述 author 字段分隔符
-
-&lt;code&gt; 不知道为什么会被 trim
-
----------
-
-Co-authored-by: IdkWhatIsIdk &lt;121616988+IdkWhatIsIdk@users.noreply.github.com&gt;
-Co-authored-by: Wenzhuo Liu &lt;mgt@oi-wiki.org&gt;
-Co-authored-by: billchenchina &lt;billchenchina2001@gmail.com&gt;
-Co-authored-by: 24OI-bot &lt;15963390+24OI-bot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#04a93d6</div>
-                                        <div class="message">fix(math/number-theory/sieve): 修正区间表达 (#4681)
-
-fix(math/number-theory/sieve): 修正区间表达(#4680)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eef3a6</div>
-                                        <div class="message">refactor(group-theory.md): 改正链接格式 (#4678)
-
-Update group-theory.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb57136</div>
-                                        <div class="message">refactor(group-theory.md): 修改部分群论内容 (#4658)
-
-* Update group-theory.md
-
-* Update group-theory.md
-
-* Update group-theory.md
-
-* Update group-theory.md
-
-删去错误的定理，并修正格式
-
-* style: format markdown files with remark-lint
-
-* Update group-theory.md
-
-* Update group-theory.md
-
-TODO: 陪集，生成子群
-
-* Update group-theory.md
-
-* style: format markdown files with remark-lint
-
-* Update group-theory.md
-
-* Update group-theory.md
-
-* Update group-theory.md
-
-根据 review 回滚部分修改
-
-* Update group-theory.md
-
-* Update group-theory.md
-
-* style: format markdown files with remark-lint
-
-* Update group-theory.md
-
-* Update group-theory.md
-
-测试可不可以在没有引文的情况下添加脚注
-
-* style: format markdown files with remark-lint
-
----------
-
-Co-authored-by: Alex-Github-Programmer &lt;55904367+Alex-Github-Programmer@users.noreply.github.com&gt;
-Co-authored-by: 24OI-bot &lt;15963390+24OI-bot@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6bbbd6</div>
-                                        <div class="message">refactor(seg.md): 删除群的部分 (#4674)
-
-Update seg.md
-Fixes: #4665
-
-删除群的部分</div>
                                     </div>
                                 </div>
                             </section>
