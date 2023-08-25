@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1106" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1433" class="">
     <defs>
         <style/>
     </defs>
@@ -1246,6 +1246,104 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">Find-NICK/Replit-v2ray</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#df3d75c</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba506ab</div>
+                                        <div class="message">更换域名
+
+将脚本中的https://short-url.redball1017.tk/mmswFY更换为https://link.fast.rd1017.top/mmswFY ，因为.tk域名过期了。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46bebe2</div>
+                                        <div class="message">Update main.sh</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d233430</div>
+                                        <div class="message">Update main.sh</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6baa12f</div>
+                                        <div class="message">Update main.sh</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3c8418</div>
+                                        <div class="message">更新READ ME自述文件</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2d3c04</div>
+                                        <div class="message">Merge branch 'main' of github.com:redball1017/Replit-v2ray</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a6a502</div>
+                                        <div class="message">UPDATE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f0846a</div>
+                                        <div class="message">Update main.sh</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6de756</div>
+                                        <div class="message">UPDATE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c12f79d</div>
+                                        <div class="message">取消云更新脚本，采用云更新变量。采用随机文件名的方法来最大限度避开Replit对关键词的检测</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b24e443</div>
+                                        <div class="message">Merge branch 'main' of github.com:Turning-Chinese/Repl-testapp1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3f3f90</div>
+                                        <div class="message">UPDATE</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b4f224</div>
+                                        <div class="message">Update main.sh</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e35d99</div>
+                                        <div class="message">在线下载脚本，逃避replit对main.sh的关键词检测
+
+将原本的本地运行脚本更改为在线获取V2ray脚本后执行在线脚本。目前replit没有检测非main.sh的脚本是否包含关键词。</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#968d69b</div>
+                                        <div class="message">云下载脚本</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#026af0e</div>
+                                        <div class="message">修复了最后的运行错误
+
+将最后的log文件的相对路径(./CORE/log.log)更改为绝对路径(/home/runner/$REPLSLUG/CORE/log.log)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a5b81d</div>
+                                        <div class="message">推送</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b662086</div>
+                                        <div class="message">提交</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Find-NICK/find-nick.github.io</span>
                                     </div>
@@ -1388,26 +1486,6 @@
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <div class="sha">#141c10e</div>
-                                        <div class="message">update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Find-NICK/find-nick.github.io</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9be7089</div>
                                         <div class="message">update</div>
                                     </div>
                                 </div>
